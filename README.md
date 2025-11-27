@@ -6,7 +6,7 @@ This project tests process management, file descriptors, error handling, and the
 
 ---
 
-## 🚀 **Project Overview**
+## 🚀 **Exam Overview**
 
 `microshell` executes commands directly from its program arguments:
 
@@ -40,8 +40,9 @@ No PATH lookup, no wildcards, no environment variable expansion — extremely ba
 
 ---
 
-## 🧠 **What This Project Demonstrates**
+## 🧠 **What This Exam Demonstrates**
 
+* Think clearly under time pressure
 * Linux process creation & synchronization
 * Pipe chaining and redirection logic
 * Manual command parsing under strict constraints
