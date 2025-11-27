@@ -1,5 +1,7 @@
 # **microshell – 42 Exam Rank 04**
 
+*At 42, exams are taken under strict supervision with no internet access, a 2-hour time limit, and an automated correction performed by the school’s grading program, the Moulinette.*
+
 A minimal shell implementation written in C as part of **42’s Exam Rank 04**.
 The goal is to reproduce a very small subset of Bash by handling command execution, pipes, semicolons, and the built-in `cd`.
 This project tests process management, file descriptors, error handling, and the fundamentals of shell design — all under strict constraints.
